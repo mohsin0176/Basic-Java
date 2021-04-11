@@ -8,5 +8,6 @@ public class Main {
     cars.add("Ford");
     cars.add("Mazda");
     System.out.println(cars);
+    
   }
 }
